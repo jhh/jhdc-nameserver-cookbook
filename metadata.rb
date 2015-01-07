@@ -1,0 +1,7 @@
+name             'jhdc-nameserver'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures jhdc-nameserver'
+long_description 'Installs/Configures jhdc-nameserver'
+version          '0.1.0'
