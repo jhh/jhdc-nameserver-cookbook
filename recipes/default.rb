@@ -25,3 +25,8 @@ end
 service 'named' do
   action [:enable, :start]
 end
+
+template '/etc/resolv.conf' do
+  source 'resolv.conf.erb'
+  mode '0644'
+end
