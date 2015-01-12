@@ -1,4 +1,5 @@
 # jhdc-nameserver-cookbook
+[![Build Status](https://travis-ci.org/jhh/jhdc-nameserver-cookbook.svg?branch=master)](https://travis-ci.org/jhh/jhdc-nameserver-cookbook)
 
 Installs `bind` and `bind-utils` packages, uses default Centos caching nameserver config.
 
